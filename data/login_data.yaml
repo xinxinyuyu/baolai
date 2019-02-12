@@ -1,0 +1,23 @@
+test_login_01:
+ usename: 13488834010
+ password: 159357li
+ tag: 1
+
+
+#test_login_02:
+#  usename: " 13488834010"
+#  password: 159357li
+#tag: 1
+#
+#
+#test_login_03:
+#  usename: "13488834010 "
+#  password: 159357li
+#tag: 1
+
+
+test_login_06:
+ usename: 13488834010
+ password: 9998888
+ expect_data: 登录密码错误
+ tag: 0
